@@ -1,0 +1,1 @@
+A CRM app based on Django uses bootstrap and Pyhton along with django framework
